@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+qdrant-client
+chromadb
+pdfminer.six
+sentence-transformers
+google-generativeai>=0.3.0
+pydantic
+pyjwt
+spacy
+scikit-learn
+faiss-cpu
+numpy

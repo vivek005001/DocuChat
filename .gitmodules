@@ -1,0 +1,3 @@
+[submodule "docchat"]
+	path = docchat
+	url = ./docchat
